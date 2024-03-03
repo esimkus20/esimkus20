@@ -3,7 +3,7 @@
   <img src="https://api.statusbadges.me/badge/status/246267066749943809?simple=false&style=plastic&label=Status" />
   <img src="https://api.statusbadges.me/badge/vscode/246267066749943809?style=plastic&fallback=Nothing&label=Coding" />
   <a href="https://api.statusbadges.me/openspotify/246267066749943809?style=plastic&fallback=Nothing">
-    <img src="https://api.statusbadges.me/badge/spotify/246267066749943809?style=plastic&label=Listening" />
+    <img src="https://api.statusbadges.me/badge/spotify/246267066749943809?style=plastic&fallback=Nothing&label=Listening" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=esimkus20&label=Profile%20views&color=0e75b6&style=plastic" />
 </h1>
