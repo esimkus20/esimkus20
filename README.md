@@ -30,7 +30,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,bootstrap,gulp,scss,xd) <br>
+![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,bootstrap,tailwind,gulp,scss,xd) <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esimkus20&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" width="400px"/>
 
