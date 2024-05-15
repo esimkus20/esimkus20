@@ -33,5 +33,5 @@
 ![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,scss,gulp,git) <br>
 ![SkillIcons](https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongo,bootstrap,xd) <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=esimkus20&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" width="387px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=esimkus20&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact&" width="387px"/>
 
