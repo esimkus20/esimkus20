@@ -10,7 +10,7 @@
 
 <h1>Hi! I'm Ernestas Šimkus</h1><br>
 
-<p>🌍 A passionate Front-End Developer based in Klaipėda, Lithuania.</p>
+<p>🌍 A passionate FrontEnd Developer based in Klaipėda, Lithuania.</p>
 
 - 📖 I’m currently learning **Node.js**
 
