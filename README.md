@@ -12,7 +12,7 @@
 
 <p>🌍 A passionate FrontEnd Developer based in Klaipėda, Lithuania.</p>
 
-- 📖 I’m currently learning **Node.js**
+- 📖 I’m currently learning **React**
 
 - 📁 I’m looking to collaborate on **Full Stack Project**
 
